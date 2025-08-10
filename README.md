@@ -1,6 +1,6 @@
 # Create React Native Datepicker
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68981cfec35c7039819d992f/create-react-native-datepicker).
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
